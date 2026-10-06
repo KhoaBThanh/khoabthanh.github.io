@@ -11,8 +11,10 @@ description: "Bui Thanh Khoa, Vice Dean and Senior Lecturer in the Faculty of Co
 Industrial University of Ho Chi Minh City, and the co-founder and CEO of
 Innoteq Co., Ltd.</p>
 
-<p>I have been named in the Top 2% list of the world's most-cited scientists.
+<p>He has been named in the Top 2% list of the world's most-cited scientists.
 <a href="https://topscinet.com/scientist_profile/Khoa,%20Bui%20Thanh/2019/?stype=single_year">Verified on TOPSCINET</a></p>
+
+<p>His 2021–2025 <a href="{{ '/blog/scholarly-index-research-milestone/' | relative_url }}">Scholarly Index topic rankings</a> place him 72nd worldwide (top 0.88%) in Research Studies in Vietnam, and 63rd worldwide (top 1.5%) in Stock Market Forecasting Methods.</p>
 
 <p class="lede">His work sits where marketing meets information systems:
 electronic commerce, consumer behaviour, online trust, and the use of machine
